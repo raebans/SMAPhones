@@ -14,3 +14,4 @@ This application is complete when:
     User is able to compare data between extension numbers
     Dashboard displays top 5 and bottom 5 most/least active on phones
     User can sort information via incoming/outgoing line
+    Data is gathered in real-time via telnet connection
