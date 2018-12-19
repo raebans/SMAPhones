@@ -1,0 +1,17 @@
+Input Data/Data Inforamtion Types: 
+    1. Extension/Name
+    2. Incoming/Outgoing Call
+    3. Call Duration
+
+Data Feild Types: 
+    1. IntergerFeild or CharFeild (Interger/Text)
+        This is numerical, but we want the numbers to coorispond to names, so the feild should either start as an IntergerFeild and tie to a CharFeild, or should be a CharFeild from the begining.
+    2. Boolean
+        This is going to function like a "true" "false" output. It is either Incoming, or Outgoing.
+    3. DateFeild or DateTimeField
+        We want this to act like a timestamp. 
+
+Constraints: 
+    1. Max extension is 3 digits, the max character name should be 20
+    2. This is only going to have Incoming Outgoing
+    3. This should have Date, and Time spent on call. Not time of Day. 
